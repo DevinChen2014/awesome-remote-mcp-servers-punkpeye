@@ -3546,6 +3546,48 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![SocialBu MCP connector](https://glama.ai/mcp/connectors/io.github.usamaejaz/socialbu-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usamaejaz/socialbu-mcp)
   🔐 - Create, schedule, publish, and analyze social media content; manage accounts, teams, and automations.
 
+- [SocialDataX Baidu Tieba](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/baidu-tieba/mcp`
+  [![SocialDataX Baidu Tieba MCP connector](https://glama.ai/mcp/connectors/com.socialdatax/baidu-tieba/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialdatax/baidu-tieba)
+  🔓 - Read Baidu Tieba forums, threads, replies and user profiles; API key for tool calls.
+- [SocialDataX Bilibili](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/bilibili/mcp`
+  [![SocialDataX Bilibili MCP connector](https://glama.ai/mcp/connectors/com.52choujiang/bilibili-insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.52choujiang/bilibili-insights)
+  🔓 - Search Bilibili videos and creators, and read comments, articles and profiles; API key for tool calls.
+- [SocialDataX Douyin](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/douyin/mcp`
+  [![SocialDataX Douyin MCP connector](https://glama.ai/mcp/connectors/com.52choujiang/douyin-insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.52choujiang/douyin-insights)
+  🔓 - Search Douyin videos, products and creators, and read comments and hot topics; API key for tool calls.
+- [SocialDataX Haokan](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/haokan/mcp`
+  [![SocialDataX Haokan MCP connector](https://glama.ai/mcp/connectors/com.socialdatax/haokan/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialdatax/haokan)
+  🔓 - Search Haokan videos and creators, and read details, comments and profiles; API key for tool calls.
+- [SocialDataX Instagram](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/instagram/mcp`
+  [![SocialDataX Instagram MCP connector](https://glama.ai/mcp/connectors/com.52choujiang/instagram-insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.52choujiang/instagram-insights)
+  🔓 - Search Instagram posts and creators, and read media details and comments; API key for tool calls.
+- [SocialDataX Kuaishou](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/kuaishou/mcp`
+  [![SocialDataX Kuaishou MCP connector](https://glama.ai/mcp/connectors/com.52choujiang/kuaishou-insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.52choujiang/kuaishou-insights)
+  🔓 - Search Kuaishou videos and creators, and read details, comments and profiles; API key for tool calls.
+- [SocialDataX TikTok](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/tiktok/mcp`
+  [![SocialDataX TikTok MCP connector](https://glama.ai/mcp/connectors/com.52choujiang/tiktok-insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.52choujiang/tiktok-insights)
+  🔓 - Search TikTok videos and creators, and read details and comments; API key for tool calls.
+- [SocialDataX Toutiao](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/toutiao/mcp`
+  [![SocialDataX Toutiao MCP connector](https://glama.ai/mcp/connectors/com.socialdatax/toutiao/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialdatax/toutiao)
+  🔓 - Search Toutiao articles and videos, and read details, comments and profiles; API key for tool calls.
+- [SocialDataX WeChat](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/wechat/mcp`
+  [![SocialDataX WeChat MCP connector](https://glama.ai/mcp/connectors/com.52choujiang/wechat-channels-insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.52choujiang/wechat-channels-insights)
+  🔓 - Search WeChat content and read details, comments and creator profiles; API key for tool calls.
+- [SocialDataX Weibo](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/weibo/mcp`
+  [![SocialDataX Weibo MCP connector](https://glama.ai/mcp/connectors/com.52choujiang/weibo-insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.52choujiang/weibo-insights)
+  🔓 - Read Weibo hot topics, posts, comments and creator profiles; API key for tool calls.
+- [SocialDataX X (Twitter)](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/x/mcp`
+  [![SocialDataX X (Twitter) MCP connector](https://glama.ai/mcp/connectors/com.52choujiang/x-insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.52choujiang/x-insights)
+  🔓 - Search X posts and users, and read details, replies and profiles; API key for tool calls.
+- [SocialDataX Xiaohongshu (XHS / RedNote)](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/xhs/mcp`
+  [![SocialDataX Xiaohongshu (XHS / RedNote) MCP connector](https://glama.ai/mcp/connectors/com.52choujiang/xhs-insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.52choujiang/xhs-insights)
+  🔓 - Search notes and read comments, creator profiles and products on Xiaohongshu; API key for tool calls.
+- [SocialDataX YouTube](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/youtube/mcp`
+  [![SocialDataX YouTube MCP connector](https://glama.ai/mcp/connectors/com.52choujiang/youtube-insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.52choujiang/youtube-insights)
+  🔓 - Search YouTube videos and channels, and read details, comments and channel posts; API key for tool calls.
+- [SocialDataX Zhihu](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/zhihu/mcp`
+  [![SocialDataX Zhihu MCP connector](https://glama.ai/mcp/connectors/com.52choujiang/zhihu-insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.52choujiang/zhihu-insights)
+  🔓 - Search Zhihu answers, articles and videos, and read comments and creator profiles; API key for tool calls.
 - [Social Fetch](https://www.socialfetch.dev) `https://api.socialfetch.dev/mcp`
   🔓 - Scrape public social media profiles, posts, comments and transcripts, live on every request.
 - [SocialFaktory](https://www.socialfaktory.com) `https://www.socialfaktory.com/mcp`
