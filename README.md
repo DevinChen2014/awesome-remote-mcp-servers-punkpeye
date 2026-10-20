@@ -3564,6 +3564,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SocialDataX Kuaishou](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/kuaishou/mcp`
   [![SocialDataX Kuaishou MCP connector](https://glama.ai/mcp/connectors/com.52choujiang/kuaishou-insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.52choujiang/kuaishou-insights)
   🔓 - Search Kuaishou videos and creators, and read details, comments and profiles; API key for tool calls.
+- [SocialDataX Sensitive Text Check](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/sensitive-check/mcp`
+  [![SocialDataX Sensitive Text Check MCP connector](https://glama.ai/mcp/connectors/com.socialdatax.mcp/social-data-x-sensitive-text-check-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialdatax.mcp/social-data-x-sensitive-text-check-mcp)
+  🔓 - Checks text for sensitive terms and moderation risks; requires a SocialDataX API key and credits.
 - [SocialDataX TikTok](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/tiktok/mcp`
   [![SocialDataX TikTok MCP connector](https://glama.ai/mcp/connectors/com.52choujiang/tiktok-insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.52choujiang/tiktok-insights)
   🔓 - Search TikTok videos and creators, and read details and comments; API key for tool calls.
